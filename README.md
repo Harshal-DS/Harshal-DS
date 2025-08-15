@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Ahire</h1>
 <h3 align="center">Problem Solver | Data Scientist</h3>
 
-- 🔭 I’m currently working on **Computer Vision for image segmentation**
+- 🔭 I’m currently working on **Uber Case Study**
 
 - 🌱 I’m currently learning **Deep diving deep learning**
 
