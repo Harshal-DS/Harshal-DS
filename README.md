@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **harsh.shekhar.ahire@gmail.com**
 
-<h3 align="left">Connect with me:</https://www.linkedin.com/in/harshal-ahire-a47503258/>
 <p align="left">
 </p>
 
