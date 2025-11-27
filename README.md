@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **harsh.shekhar.ahire@gmail.com**
 
-- ⚡ Fun fact **Important Things :YOLO||COCO but such funny name😄**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
