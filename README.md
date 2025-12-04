@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Uber Case Study**
 
-- 🌱 I’m currently learning **Deep diving deep learning**
+- 🌱 I’m currently learning **NLP and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1DSw-_9bbfgAphhVKwbWv7mfKibC-eDpF/view?usp=sharing](https://drive.google.com/file/d/1DSw-_9bbfgAphhVKwbWv7mfKibC-eDpF/view?usp=sharing)
 
